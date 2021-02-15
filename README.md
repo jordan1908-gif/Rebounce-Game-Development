@@ -1,5 +1,5 @@
 # Rebounce-Game-Development
-This rebound game is solely built with Vanilla JavaScript. User is able to choose the difficulty which are categorised into Easy, Medium and Difficult. Besides, users may also turn on the sound effects for a more pleasant user experience. Game is over when ball touches the ground or misses the paddle.
+This rebound game is solely built with Vanilla JavaScript. User is able to choose the difficulty levels which are categorised into Easy, Medium and Difficult. Besides, users may also turn on the sound effects for a more pleasant user experience. Game is over when ball touches the ground or misses the paddle.
 
 ## Getting Started
 1. Download the source code. 
