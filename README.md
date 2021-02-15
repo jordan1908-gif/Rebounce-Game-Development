@@ -7,7 +7,7 @@ This rebound game is solely built with Vanilla JavaScript. User is able to choos
   <br> •	Defining objects with JavaScript.
   <br> •	Creating replacement animation with JavaScript.
   <br> •	Animating objects with formulas.
-  <br> •	Simulating boundary collisions
+  <br> •	Simulating boundary collisions.
   <br> •	Handling keyboard events.
   <br> •	Rendering game objects on screen.
   <br> •	Detecting collisions.
