@@ -36,22 +36,10 @@ This rebound game is solely built with Vanilla JavaScript. User is able to choos
 -----
 
 <div align="center">
-  <h2>Edit Quantity</h2>
-<img src="images/editquantity.gif" alt="gif">
+  <h2>Settings Panel</h2>
+<img src="images/settings.PNG" alt="img">
 </div>
 
 -----
 
-<div align="center">
-  <h2>Remove Item from Cart</h2>
-<img src="images/removeitem.gif" alt="gif">
-</div>
 
------
-
-<div align="center">
-  <h2>Local Storage</h2>
-<img src="images/localstorage.PNG" alt="img">
-</div>
-
------
