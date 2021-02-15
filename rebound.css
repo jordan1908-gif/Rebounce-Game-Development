@@ -1,0 +1,83 @@
+body {
+    font-family: sans-serif;
+}
+
+#playingArea{
+    position: absolute;
+    border: 1px black solid;
+    background-color: rgb(216,216,216);
+    top: 10px;
+    left: 10px;
+}
+
+#paddle {
+    position: absolute;
+    bottom: 30px;
+    left: 228px;
+    width: 64px;
+    height: 16px;
+    background-color: coral;
+}
+
+#ball {
+    position: absolute; 
+    top: 8px;
+    left: 100px;
+    width: 16px;
+    height: 16px;
+    border-radius: 8px;
+    background-color: cornflowerblue;
+}
+
+#score {
+    position: absolute;
+    bottom: 0px;
+    left: 0px;
+    width: calc(100% - 10px);
+    height: 20px;
+    color: white;
+    background-color: rgb(32,128,64);
+    padding: 5px;
+}
+
+#controls{
+    position: absolute;
+    z-index: 5;
+    top: 40px;
+    width: 200px;
+    margin-left: calc((100% - 216px)/2);
+    border: 3px solid black;
+    padding-bottom: 5px;
+    text-align: center;
+    background-color: white;
+    box-shadow: 5px 5px 10px gray;
+    display: none;
+}
+
+#controls h3{
+    color: white;
+    background-color: cornflowerblue;
+    padding: 10px 5px;
+    margin-top: 0px;
+}
+
+#controls button, #controls select{
+    border: 1px black solid;
+    margin: 5px;
+    padding: 5px;
+    min-width: 100px;
+}
+
+#gear {
+    position:absolute;
+    top: 20px;
+    right: 20px;
+    font-size: 2em;
+}
+
+fieldset {
+    text-align: left;
+    width: 70%;
+    margin: 10px auto;
+
+}

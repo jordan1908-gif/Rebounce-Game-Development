@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Rebound</title>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-wdith, initial-scale=1.0">
+        <link rel="stylesheet" type="text/css" href="rebound.css"/>
+        <script type="text/javascript" src="rebound.js"></script>
+    </head>
+    <body>
+        <div id="playingArea">
+            <div id="paddle"></div>
+            <div id="ball"></div>
+            <div id="score">
+                Score: 0
+            </div>
+        </div>
+        <div id="controls">
+            <h3>Settings</h3>
+            <button id="new">New Game</button><br/>
+            <select size="1" id="difficulty">
+                <option>Easy</option>
+                <option>Medium</option>
+                <option>Hard</option>
+            </select><br/>
+            <fieldset>
+                <legend>Sounds</legend>
+                <input type="checkbox" id="snd" />
+                <label for="snd">Effects</label><br/>
+                <input type="checkbox" id="music" />
+                <label for="music">Music</label><br/>
+            </fieldset>
+            <button id="done">Done</button>
+        </div>
+        <button id="gear">&#9881</button>
+    </body>
+</html>
