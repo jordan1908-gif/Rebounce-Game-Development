@@ -29,8 +29,8 @@ This rebound game is solely built with Vanilla JavaScript. User is able to choos
 -----
 
 <div align="center">
-  <h2>Add to Cart</h2>
-<img src="images/additems.gif" alt="gif">
+  <h2>Gameplay</h2>
+<img src="images/game.gif" alt="gif">
 </div>
 
 -----
